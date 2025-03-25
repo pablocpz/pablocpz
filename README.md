@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I'm Pablo!
+
+I'm a senior high schooler from the sourthen part of Spain. I'm really interested in AI and it's application, and worked on several projects before related with data science, agentic models or computer vision.
+
+![Imagen de WhatsApp 2025-03-17 a las 16 24 05_07875df8](https://github.com/user-attachments/assets/e1bab06a-e6be-44fd-9a74-3609660cc9e1)
+
+![Imagen de WhatsApp 2024-12-29 a las 14 06 28_ef815a7f](https://github.com/user-attachments/assets/2ad40be4-d9c6-48de-8346-0b6b966e5190)
+
+![Imagen de WhatsApp 2024-12-16 a las 18 29 50_94843297](https://github.com/user-attachments/assets/6b7de077-e6ae-4d34-bd9c-f0480bc44074)
 
 <!--
 **pablocpz/pablocpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
