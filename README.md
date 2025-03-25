@@ -30,9 +30,7 @@ I'm a senior high schooler from the sourthen part of Spain. I'm really intereste
   </table>
 </div>
 
-## Sample Tweets
-
-## Sample Tweets
+## Sample Featured Tweets
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://x.com/pablocpz_ai/status/1704943871602393393" target="_blank">Tweet 1</a>
