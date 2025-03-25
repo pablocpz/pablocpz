@@ -1,6 +1,10 @@
 Hi, I'm Pablo!
 
-I'm a senior high schooler from the sourthen part of Spain. I'm really interested in AI and it's application, and worked on several projects before related with data science, agentic models or computer vision.
+I'm a senior high schooler from the sourthen part of Spain. I'm really interested in AI and it's practical use cases, and worked on several projects before related with data science, agentic models or computer vision.
+
+- I believe that following my passion means striving for excellence—becoming the best at it and providing as much value as possible while enjoying the process.
+
+- Beyond that, I also believe success wouldn't come without taking care of the people you love, making time to hang out with friends, laugh, and enjoy life, while also building a strong physical and emotional state.
 
 <div align="center">
   <table>
