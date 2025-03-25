@@ -30,6 +30,14 @@ I'm a senior high schooler from the sourthen part of Spain. I'm really intereste
   </table>
 </div>
 
+## Sample Tweets
+
+<div style="display: flex; justify-content: space-between;">
+  <iframe src="[https://twitter.com/user/status/1234567890](https://x.com/pablocpz_ai/status/1704943871602393393)" style="width: 30%; height: 300px;"></iframe>
+  <iframe src="[https://twitter.com/user/status/1234567891](https://x.com/pablocpz_ai/status/1708445332252635550)" style="width: 30%; height: 300px;"></iframe>
+  <iframe src="[https://twitter.com/user/status/1234567892](https://x.com/pablocpz_ai/status/1808257926680699034)" style="width: 30%; height: 300px;"></iframe>
+</div>
+
 <!--
 **pablocpz/pablocpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
