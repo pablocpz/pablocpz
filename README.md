@@ -15,6 +15,17 @@ I'm a senior high schooler from the sourthen part of Spain. I'm really intereste
   </table>
 </div>
 
+## 📸 More Cool Moments  
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/user-attachments/assets/5010ccf0-ad0d-45e2-b920-57569dfdf98a" width="300px"></td>
+      <td><img src="https://github.com/user-attachments/assets/6efdb2ff-2596-45e3-b03f-d68ed9a977ea" width="300px"></td>
+      <td><img src="https://github.com/user-attachments/assets/71816eb3-b5a4-4b53-8dc2-d6c24a346097" width="300px"></td>
+    </tr>
+  </table>
+</div>
+
 <!--
 **pablocpz/pablocpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
