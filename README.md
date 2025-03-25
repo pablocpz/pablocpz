@@ -32,11 +32,14 @@ I'm a senior high schooler from the sourthen part of Spain. I'm really intereste
 
 ## Sample Tweets
 
+## Sample Tweets
+
 <div style="display: flex; justify-content: space-between;">
-  <iframe src="https://x.com/pablocpz_ai/status/1704943871602393393" style="width: 30%; height: 300px;"></iframe>
-  <iframe src="https://x.com/pablocpz_ai/status/1708445332252635550" style="width: 30%; height: 300px;"></iframe>
-  <iframe src="https://x.com/pablocpz_ai/status/1808257926680699034" style="width: 30%; height: 300px;"></iframe>
+  <a href="https://x.com/pablocpz_ai/status/1704943871602393393" target="_blank">Tweet 1</a>
+  <a href="https://x.com/pablocpz_ai/status/1708445332252635550" target="_blank">Tweet 2</a>
+  <a href="https://x.com/pablocpz_ai/status/1808257926680699034" target="_blank">Tweet 3</a>
 </div>
+
 
 
 <!--
